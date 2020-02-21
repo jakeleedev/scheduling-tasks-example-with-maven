@@ -1,1 +1,1 @@
-# scheduling-tasks-example-with-maven
+# Spring Scheduling Tasks Example with Maven
